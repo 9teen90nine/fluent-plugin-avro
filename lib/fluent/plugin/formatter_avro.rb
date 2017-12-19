@@ -1,5 +1,4 @@
 require 'avro'
-require 'fluent/plugin/formatter'
 require 'fluent/formatter'
 
 module Fluent
